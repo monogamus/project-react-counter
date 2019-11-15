@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-react-counter/static/css/main.b100e6da.chunk.css",
+    "main.js": "/project-react-counter/static/js/main.f9dcf592.chunk.js",
+    "main.js.map": "/project-react-counter/static/js/main.f9dcf592.chunk.js.map",
+    "runtime-main.js": "/project-react-counter/static/js/runtime-main.e7cb0afc.js",
+    "runtime-main.js.map": "/project-react-counter/static/js/runtime-main.e7cb0afc.js.map",
+    "static/js/2.65692ebd.chunk.js": "/project-react-counter/static/js/2.65692ebd.chunk.js",
+    "static/js/2.65692ebd.chunk.js.map": "/project-react-counter/static/js/2.65692ebd.chunk.js.map",
+    "index.html": "/project-react-counter/index.html",
+    "precache-manifest.3e83be157266cb179aac864d4aa77221.js": "/project-react-counter/precache-manifest.3e83be157266cb179aac864d4aa77221.js",
+    "service-worker.js": "/project-react-counter/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/project-react-counter/static/css/main.b100e6da.chunk.css.map",
+    "static/media/confederate_p.jpg": "/project-react-counter/static/media/confederate_p.2baccc66.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7cb0afc.js",
+    "static/js/2.65692ebd.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f9dcf592.chunk.js"
+  ]
+}
