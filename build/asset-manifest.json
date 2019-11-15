@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b100e6da.chunk.css",
+    "main.js": "/static/js/main.f40fee57.chunk.js",
+    "main.js.map": "/static/js/main.f40fee57.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4cb1da1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4cb1da1.js.map",
+    "static/js/2.6ad6ad6a.chunk.js": "/static/js/2.6ad6ad6a.chunk.js",
+    "static/js/2.6ad6ad6a.chunk.js.map": "/static/js/2.6ad6ad6a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6150219858a05d7534d79e09f22b70e.js": "/precache-manifest.b6150219858a05d7534d79e09f22b70e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
+    "static/media/confederate_p.jpg": "/static/media/confederate_p.2baccc66.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4cb1da1.js",
+    "static/js/2.6ad6ad6a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f40fee57.chunk.js"
+  ]
+}
